@@ -17,51 +17,7 @@ An automated bot for creating X (formerly Twitter) accounts using advanced brows
 - **Error Handling**: Comprehensive error handling and logging
 - **Customizable**: Easy configuration for different use cases
 
-## 📋 Prerequisites
-
-- Python 3.8+
-- Valid email address for account verification
-- CDS Solver API key for CAPTCHA solving (You can get it from https://t.me/keysolv_bot for free)
-- Proxies
-
-## 🛠 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/okoyausman/twitter-account-creation-bot.git
-cd twitter-account-creation-bot
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ## ⚙️ Configuration
-
-### 1. API Keys Setup
-
-```python
-# In bot.py, update these values:
-cds_solver_api_key = "your_cds_solver_api_key"  # Get from https://t.me/keysolv_bot
-```
-
-### 2. Proxy Configuration
-
-```python
-# Set your proxy in bot.py
-proxy = "http://username:password@proxy-server:port"
-```
-
-## 🚀 Usage
-
-### Basic Usage
-
-```bash
-python bot.py
-```
-
-The bot will prompt you for:
-1. Email address for the new account
-2. Email verification code (manual input required)
 
 ### Advanced Usage
 
