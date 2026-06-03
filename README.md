@@ -2,6 +2,11 @@
 
 An automated bot for creating X (formerly Twitter) accounts using advanced browser fingerprinting and CAPTCHA solving techniques. This bot leverages the Castle.io fingerprinting library to generate realistic browser profiles and bypass security measures.
 
+<p align="center">
+  <img src="https://github.com/TomoeGozen82/twitter-account-creation-bot/blob/main/twitter-account-creation-bot.png" alt="Modern Tinder UI 2026" width="85%"/>
+
+</p>
+
 ## ⚠️ Disclaimer
 
 **This project is for educational and research purposes only.** Users are responsible for complying with X's Terms of Service and all applicable laws. The authors are not responsible for any misuse of this software.
